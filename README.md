@@ -1,5 +1,5 @@
-# automatic_topic-_model
-                                                          基于tomotopy的中文文本主题自动提取软件：使用指南
+# 基于tomotopy的中文文本主题自动提取软件：使用指南
+                                                          
 该软件旨在自动分析大批量文档中的主题，并计算每个文档中不同主题的概率分布，即主题值。该软件是基于Python(3.7)语言开发的，适用于Windows操作系统。软件中文本主题的分析主要依赖于LDA主题模型（Latent Dirichlet Allocation Model），该模型的原理可参见Blei et al. (2003)的论文。
 1.软件安装
 该软件的可执行程序（exe）可通过Microsofthttps的OneDrive储存器下载:https://1drv.ms/u/s!AmzgU0mRIM3naRKYGL8jsd6HIF4?e=Zf32aW 。下载后无需安装，只需配置好文本数据即可实现LDA主题分析。储存器中包含两个文件，其中input.csv为文本储存的示例数据，exe可执行程序为软件主体，如图1所示。
