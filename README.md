@@ -48,4 +48,5 @@
 
 
 参考文献
+
 Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. Journal of Machine Learning Research, 3, 993–1022. 
